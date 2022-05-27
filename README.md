@@ -1,7 +1,3 @@
-# Minesweeper API
-
-Lives at https://minesweeper-api-jm.herokuapp.com
-
 ## First steps
 - Make sure you have ruby installed (I used 2.6.1)
 - Also make sure you have postgresql installed and running
@@ -62,4 +58,3 @@ Cells is a one-dimensional array containing the board.
 - Board service spec
 - Game service spec TODO
 - Controllers TODO
-
